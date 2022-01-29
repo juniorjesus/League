@@ -49,17 +49,17 @@ const Map = () => {
             <div className="home-map__header">
                 <div className="home-map__headline">
                     <HeadlineSecondary
-                        before="start your"
-                        after="legend"
-                        desc="New to League? Get a rundown on the basics for the most popular game mode."
+                        before="Comienza tu"
+                        after=" Leyenda!"
+                        desc="¿Nuevo en la Liga? Obtenga un resumen de los conceptos básicos para el modo de juego más popular."
                     />
                 </div>
                 <div className="home-map__btns">
                     <Button brown>
-                        <Link to="/champions">get started</Link>
+                        <Link to="/champions">Empezar</Link>
                     </Button>
                     <Button>
-                        <Link to="/champions">Play for free</Link>
+                        <Link to="/champions">Jugar Gratis!</Link>
                     </Button>
                 </div>
             </div>

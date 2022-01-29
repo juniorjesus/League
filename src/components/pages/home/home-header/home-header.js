@@ -18,7 +18,7 @@ const Header = () => (
             <Video source={intro} />
             <Logo />
             <Button>
-                <Link to="/champions">Play for free</Link>
+                <Link to="/champions">Jugar Gratis!</Link>
             </Button>
         </div>
     </header>

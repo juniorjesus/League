@@ -117,7 +117,7 @@ export default class Champions extends React.Component {
 
 const Header = () => (
     <header className="champions__header">
-        <h1 className="visually-hidden">League of legends champions</h1>
+        <h1 className="visually-hidden">Campeones de la liga de Leyendas</h1>
         <HeadlineSecondary
             before="choose your"
             after="champion"

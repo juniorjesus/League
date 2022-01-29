@@ -109,7 +109,7 @@ export default class HomeStyle extends React.Component {
                             desc="Make it personal by changing up the look of your favorite champions with skins."
                         />
                         <Button sm>
-                            <a href="https://ru.leagueoflegends.com/en-us/" target="_blank" rel="noopener noreferrer">Play now</a>
+                            <a href="https://ru.leagueoflegends.com/en-us/" target="_blank" rel="noopener noreferrer">Jugar Ahora!</a>
                         </Button>
                     </div>
                 </div>

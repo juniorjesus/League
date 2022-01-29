@@ -34,17 +34,17 @@ const HomeClasses = () => {
         <section className="home-classes">
             <div className="home-classes__headline">
                 <HeadlineSecondary
-                    before="choose your"
-                    after="champion"
-                    desc="Whether you like to dive straight into the fray, support your teammates, or something in between, there’s a spot for you on the Rift."
+                    before="Escoge tu"
+                    after="Campeón!"
+                    desc="Ya sea que te guste sumergirte directamente en la refriega, apoyar a tus compañeros de equipo o algo intermedio, hay un lugar para ti en la Grieta."
                 />
             </div>
             <div className="home-classes__btn">
                 <Button sm brown>
-                    <Link to="/champions">Discover more champions</Link>
+                    <Link to="/champions">Descubre más Campeones!</Link>
                 </Button>
                 <Button sm>
-                    <Link to="/champions">play now</Link>
+                    <Link to="/champions">Jugar Ahora!</Link>
                 </Button>
             </div>
             <div className="home-classes__block">
