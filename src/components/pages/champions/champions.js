@@ -119,9 +119,9 @@ const Header = () => (
     <header className="champions__header">
         <h1 className="visually-hidden">Campeones de la liga de Leyendas</h1>
         <HeadlineSecondary
-            before="choose your"
-            after="champion"
-            desc="With more than 140 champions, you’ll find the perfect match for your playstyle. Master one, or master them all"
+            before="Escoge tu "
+            after="Campeón!"
+            desc="Con más de 140 campeones, encontrarás la combinación perfecta para tu estilo de juego. Dominar uno, o dominarlos a todos."
         />
     </header>
 )

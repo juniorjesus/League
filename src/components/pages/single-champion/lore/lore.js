@@ -13,7 +13,7 @@ const Lore = ({ blurb, lore }) => {
             <span
                 onClick={openLore}
                 className={loreOpened ? "champion-lore__open closed" : "champion-lore__open"}>
-                See more
+                ver mas
             </span>
         </div>
     )

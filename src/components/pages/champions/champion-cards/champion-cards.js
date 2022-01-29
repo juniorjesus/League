@@ -58,7 +58,7 @@ export default class ChampionCards extends React.Component {
 
         if (filteredChamps.length === 0) {
             return (
-                <div className="champion-cards__filter-fail">No champions match the filter criteria.</div>
+                <div className="champion-cards__filter-fail">Ningún Campeón coincide con los filtros de Búsqueda</div>
             )
         }
 

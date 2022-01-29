@@ -114,7 +114,7 @@ export default class Select extends React.Component {
                         )
                     }
                 }}
-                noOptionsMessage={() => type === 'search' ? <div>No champions found</div> : null}
+                noOptionsMessage={() => type === 'search' ? <div>No se encontraron campeones!</div> : null}
             />
         );
     }

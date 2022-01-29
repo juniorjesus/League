@@ -34,11 +34,11 @@ const Skins = ({ champion: { skins } }) => {
 
     return (
         <section className="skins">
-            {isSmScreen ? <h2 className="skins__headline">Available skins</h2> : null}
+            {isSmScreen ? <h2 className="skins__headline">Armaduras Disponibles</h2> : null}
             <div className="skins__container">
                 <div className="glide skins__slider" ref={slider}>
                     <div className="skins__aside">
-                        <h2 className="skins__headline lg">Available skins</h2>
+                        <h2 className="skins__headline lg">Armaduras Disponibles</h2>
                         <div className="glide__bullets skins__bullets" data-glide-el="controls[nav]">
                             {skins.map(({ id, image, name }, i) => {
                                 return (

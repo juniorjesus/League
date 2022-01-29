@@ -13,7 +13,7 @@ const Abilities = ({ champion: { spells } }) => {
     return (
         <section className="abilities">
             <div className="abilities__block abilities__block--details">
-                <h2 className="abilities__headline">Abilities</h2>
+                <h2 className="abilities__headline">Habilidades</h2>
                 <div className="abilities__track">
                     <Track data={spells} setCurrentTrack={setTrack} />
                 </div>

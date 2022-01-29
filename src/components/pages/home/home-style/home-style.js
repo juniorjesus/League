@@ -104,9 +104,9 @@ export default class HomeStyle extends React.Component {
                     <Skins ref={this.skins} activeSkin={this.state.activeSkin} />
                     <div className="home-style__details" ref={this.text}>
                         <HeadlineSecondary
-                            before="slay with"
-                            after="style"
-                            desc="Make it personal by changing up the look of your favorite champions with skins."
+                            before="Matar con"
+                            after="Estilo"
+                            desc="Personalízalo cambiando el aspecto de tus campeones favoritos con aspectos."
                         />
                         <Button sm>
                             <a href="https://ru.leagueoflegends.com/en-us/" target="_blank" rel="noopener noreferrer">Jugar Ahora!</a>

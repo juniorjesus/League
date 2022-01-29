@@ -12,7 +12,7 @@ const Role = ({ role }) => {
 
     return (
         <div className="champion-role">
-            <div className="champion-role__label">role</div>
+            <div className="champion-role__label">Papel</div>
             <div className="champion-role__details">
                 {role.map(item => {
                     return (

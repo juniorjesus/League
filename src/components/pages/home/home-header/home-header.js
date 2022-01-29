@@ -10,7 +10,7 @@ const Logo = () => <img className="logo home-header__intro-img" src={logo} alt="
 
 const Header = () => (
     <header className="home-header">
-        <h1 className="visually-hidden">Welcome to League of legends</h1>
+        <h1 className="visually-hidden">Bienvenidos a la Liga de Leyendas</h1>
         <div className="home-header__bg">
             <Video source={bg} />
         </div>

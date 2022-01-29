@@ -7,7 +7,7 @@ const ChampDifficulty = ({ difficulty }) => {
         <div className="champion-difficulty">
             <Difficulty difficulty={difficulty} size="sm" />
             <div className="champion-difficulty__title-wrap">
-                <span>difficulty</span>
+                <span>Dificultad</span>
                 <span className="champion-difficulty__title">{difficulty}</span>
             </div>
         </div>
