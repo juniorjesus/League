@@ -9,7 +9,7 @@ import noData from '../../../media/3024051.jpg';
 const NoDataResponse = ({ image }) => (
     <div className="track-video-fail">
         <img className="track-video-fail__img" src={image} alt="no data" />
-        <div className="track-video-fail__info">No data found :(</div>
+        <div className="track-video-fail__info">Datos no encontrados :(</div>
     </div>
 )
 
