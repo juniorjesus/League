@@ -44,7 +44,7 @@ const HomeClasses = () => {
                     <Link to="/champions">Descubre más Campeones!</Link>
                 </Button>
                 <Button sm>
-                    <Link to="/champions">Jugar Ahora!</Link>
+                    <Link to="/champions"> y a Jugar Ahora!</Link>
                 </Button>
             </div>
             <div className="home-classes__block">
